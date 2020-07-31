@@ -33,10 +33,10 @@ def prime?(number)
 #     false
 #   end
 # end
-# 
-# 
-# 
+#
+#
+#
 # Add  code here!
-# 
-# 
+#
+#
 # going to create a method where it iterates, and divide it by i +=1 until i == num
